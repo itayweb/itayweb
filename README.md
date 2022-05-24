@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Itay Adler, i'm 18 years old and all of my life I've interested in tech and currently enthusiast in programming
+- 👋 Hi, I’m Itay Adler, i'm 19 years old and all of my life I've interested in tech and currently enthusiast in programming
 - 👀 I’m interested in game developement and programming in general
 - 🌱 I’m currently learning more about game developemnt, Unity in particular
 - 💞️ I’m looking to collaborate on games's development
